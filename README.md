@@ -1,5 +1,5 @@
 # 🎬 MovieIndex - Studio Ghibli Collection
-https://ryuzakxx.github.io/MovieIndex---Top-10-Studio-Ghibli-Movies/
+https://ryuzakxx.github.io/MovieIndex/
 
 
 Un elegante catalogo web dedicato ai capolavori dello Studio Ghibli, con design moderno e interfaccia interattiva.
